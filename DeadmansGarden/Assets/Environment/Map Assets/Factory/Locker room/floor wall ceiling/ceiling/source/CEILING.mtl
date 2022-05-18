@@ -1,0 +1,34 @@
+newmtl GD47Vrushank_CEILING:blinn12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd WALL-CORNER-UV.tga
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl GD47Vrushank_CEILING:blinn14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Ceiling_Floor_SnapShot.tga
+bump NormalMap_FLOOR_CEILING.png -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks SPECULAR_FLOOR_CEILING_CORRECTION.png
+newmtl blinn21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Door_UV_SnapShot.tga
+bump NormalMap_DOOR03.png -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Specularity_DOOR.png
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

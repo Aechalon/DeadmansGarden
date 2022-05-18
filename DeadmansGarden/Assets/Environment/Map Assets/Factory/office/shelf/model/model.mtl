@@ -1,0 +1,51 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.35440475)
+
+newmtl Mensola_04
+kd 0.627451 0.321569 0.176471
+illum 1
+
+newmtl Mensola_03
+kd 1 0.843137 0
+illum 1
+
+newmtl Parete_Dx_02
+kd 0 0.807843 0.819608
+illum 1
+
+newmtl Mensola_05
+kd 0.721569 0.52549 0.0431373
+illum 1
+
+newmtl Parete_Sx_02
+kd 0 0.501961 0.501961
+illum 1
+
+newmtl Divisore_02
+kd 0.678431 1 0.184314
+illum 1
+
+newmtl Parete_Dx_01
+kd 1 0.894118 0.768627
+illum 1
+
+newmtl Parete_Sx_01
+kd 1 0.388235 0.278431
+illum 1
+
+newmtl Divisore_01
+kd 0 1 0
+illum 1
+
+newmtl Divisore_03
+kd 0.596078 0.984314 0.596078
+illum 1
+
+newmtl Mensola_02
+kd 1 0.54902 0
+illum 1
+
+newmtl Mensola_01
+kd 1 0 0
+illum 1
+

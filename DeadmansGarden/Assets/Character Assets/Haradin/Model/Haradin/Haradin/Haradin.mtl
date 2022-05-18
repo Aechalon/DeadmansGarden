@@ -1,0 +1,86 @@
+# Exported from Fuse 1.3.0
+
+newmtl Mask
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Haradin_Mask_diffuse.png
+map_Ks Haradin_Mask_specular.png
+bump Haradin_Mask_normal.png
+map_Ns Haradin_Mask_gloss.png
+
+newmtl Bottom
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Haradin_Bottom_diffuse.png
+map_Ks Haradin_Bottom_specular.png
+bump Haradin_Bottom_normal.png
+map_Ns Haradin_Bottom_gloss.png
+
+newmtl Glove
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Haradin_Glove_diffuse.png
+map_Ks Haradin_Glove_specular.png
+bump Haradin_Glove_normal.png
+map_Ns Haradin_Glove_gloss.png
+
+newmtl Shoes
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Haradin_Shoes_diffuse.png
+map_Ks Haradin_Shoes_specular.png
+bump Haradin_Shoes_normal.png
+map_Ns Haradin_Shoes_gloss.png
+
+newmtl Hair
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Haradin_Hair_diffuse.png
+map_Ks Haradin_Hair_specular.png
+bump Haradin_Hair_normal.png
+map_Ns Haradin_Hair_gloss.png
+
+newmtl Body
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Haradin_Body_diffuse.png
+map_Ks Haradin_Body_specular.png
+bump Haradin_Body_normal.png
+map_Ns Haradin_Body_gloss.png
+
+newmtl Top
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+map_Kd Haradin_Top_diffuse.png
+map_Ks Haradin_Top_specular.png
+bump Haradin_Top_normal.png
+map_Ns Haradin_Top_gloss.png
+

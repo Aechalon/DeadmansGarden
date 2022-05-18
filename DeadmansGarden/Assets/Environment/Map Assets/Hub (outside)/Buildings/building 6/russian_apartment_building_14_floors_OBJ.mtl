@@ -1,0 +1,289 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 26.06.2019 22:12:31
+
+newmtl concr_top
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_green_painted.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_white_painted_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_white_painted_NRM.png
+
+newmtl roof
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\roof.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\roof_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\roof_NRM.png
+
+newmtl wall_side
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\wall_main.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\wall_main_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\wall_main_NRM.png
+
+newmtl concrete_white
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_white_painted.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_white_painted_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_white_painted_NRM.png
+
+newmtl Tiles_floor
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\floor_tiles.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\floor_tiles_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\floor_tiles_NRM.png
+
+newmtl concrete_red
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_red.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_red_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_red_NRM.png
+
+newmtl concrete_yellow
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_yellow_painted.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_yellow_painted_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\concrete_yellow_painted_NRM.png
+
+newmtl windows_wide
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\wide_windows.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\wide_windows_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\wide_windows_NRM.png
+
+newmtl wn_narrow
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\wn_narrow.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\wn_narrow_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\wn_narrow_NRM.png
+
+newmtl blc_board_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_board_01.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_board_01_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_board_01_NRM.png
+
+newmtl blc_board_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_board_02.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_board_02_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_board_02_NRM.png
+
+newmtl blc_wns_01
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_wns_01.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_wns_01_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_wns_01_NRM.png
+
+newmtl blc_wns_02
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_wns_02.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_wns_02_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\blc_wns_02_NRM.png
+
+newmtl porch_1
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_1.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_1_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_1_NRM.png
+
+newmtl mtl_podezd
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5843 0.5843 0.5843
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_metal.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_metal_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_metal_NRM.png
+
+newmtl metal
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Business\2019\3D Models\russian_apartment_building_14_floors\metal_dirt.png
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\metal_dirt.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\metal_dirt_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\metal_dirt_NRM.png
+
+newmtl roof_doors
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_doors_wood.png
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_doors_wood.png
+
+newmtl porch_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_2.png
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_2.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_2_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\porch_2_NRM.png
+
+newmtl ground_concr
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\Business\2019\3D Models\russian_apartment_building_14_floors\ground_concr.png
+	map_Kd D:\Business\2019\3D Models\russian_apartment_building_14_floors\ground_concr.png
+	map_bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\ground_concr_NRM.png
+	bump D:\Business\2019\3D Models\russian_apartment_building_14_floors\ground_concr_NRM.png

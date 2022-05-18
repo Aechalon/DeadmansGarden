@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Collectibles
+  - Movable
+  - Target
+  - HeadBound
+  - PersonalConsole
+  - SaveButton
+  - LoadButton
+  - CinemachineTarget
+  - Obstacle
+  - DebugTransform
+  - Stamina
+  - GameArea
+  - Container
+  - Teleport
+  - Door
+  - Wall
+  - FirstArea
+  - SecondArea
+  - TopTool
+  - BottomTool
+  - MidTool
+  - LeftTool
+  - RightTool
+  - MiniGame
+  - FlashLight
+  - Keypad
+  - PowerSource
+  - LabEntrance
+  - ElevatorCall
+  - AI
+  - Destination
+  - DialogueWall
+  - Raster
+  - MinimapCamera
+  - SafeZone
+  - Metropolis
+  - DialogueSphere
+  - End
+  - Tutorial
+  - Quest
+  - Elevator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Obstacle
+  - Throwable
+  - Minimap
+  - None
+  - Light
+  - Roof
+  - Collectible
+  - Selection
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
